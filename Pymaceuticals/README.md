@@ -31,7 +31,6 @@ My tasks are to do the following:
 
 * Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
-  **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
 
 * Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 
